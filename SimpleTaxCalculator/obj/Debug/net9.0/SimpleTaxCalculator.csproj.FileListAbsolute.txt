@@ -1,0 +1,15 @@
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\bin\Debug\net9.0\SimpleTaxCalculator.exe
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\bin\Debug\net9.0\SimpleTaxCalculator.deps.json
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\bin\Debug\net9.0\SimpleTaxCalculator.runtimeconfig.json
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\bin\Debug\net9.0\SimpleTaxCalculator.dll
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\bin\Debug\net9.0\SimpleTaxCalculator.pdb
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.AssemblyInfoInputs.cache
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.AssemblyInfo.cs
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.csproj.CoreCompileInputs.cache
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.sourcelink.json
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.dll
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\refint\SimpleTaxCalculator.dll
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.pdb
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\SimpleTaxCalculator.genruntimeconfig.cache
+c:\Users\Yohan Pasindu\Desktop\C#\C# Simple Console Apps\SimpleTaxCalculator\obj\Debug\net9.0\ref\SimpleTaxCalculator.dll
