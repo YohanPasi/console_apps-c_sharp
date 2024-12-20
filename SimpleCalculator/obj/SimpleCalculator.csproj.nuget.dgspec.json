@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj": {}
+    "c:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj": {
+    "c:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectUniqueName": "c:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "C:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectPath": "c:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\SimpleCalculator.csproj",
         "packagesPath": "C:\\Users\\Yohan Pasindu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\obj\\",
+        "outputPath": "c:\\Users\\Yohan Pasindu\\Desktop\\C#\\C# Simple Console Apps\\SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yohan Pasindu\\AppData\\Roaming\\NuGet\\NuGet.Config"
